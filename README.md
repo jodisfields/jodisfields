@@ -1,7 +1,8 @@
 <a href="https://github.com/jodisfields" target="blank"><img align="center" title="Hello, World!" src="https://readme-typing-svg.herokuapp.com/?center=true&vcenter=true&width=600&height=75&font=rubik&size=30&duration=3000&color=000000&lines=Përshëndetje%2c+My+Name+Is+Jodis!;እው+ሰላም+ነው%2c+My+Name+Is+Jodis!;أهلا%2c+My+Name+Is+Jodis!;Բարեւ+Ձեզ%2c+My+Name+Is+Jodis!;Salam%2c+My+Name+Is+Jodis!;হ্যালো%2c+My+Name+Is+Jodis!;नमस्ते%2c+My+Name+Is+Jodis!;Szia%2c+My+Name+Is+Jodis!;Olá%2c+My+Name+Is+Jodis!;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ%2c+My+Name+Is+Jodis!;Buna+Ziua%2c+My+Name+Is+Jodis!;Привет%2c+My+Name+Is+Jodis!;Talofa%2c+My+Name+Is+Jodis!;Halò%2c+My+Name+Is+Jodis!;Здраво%2c+My+Name+Is+Jodis!;Mhoro%2c+My+Name+Is+Jodis!;Hola%2c+My+Name+Is+Jodis!;안녕하세요%2c+My+Name+Is+Jodis!;こんにちは%2c+My+Name+Is+Jodis!;Здраво%2c+My+Name+Is+Jodis!;Сайн+Уу%2c+My+Name+Is+Jodis!;नमस्कार%2c+My+Name+Is+Jodis!;Aloha%2c+My+Name+Is+Jodis!;Bonjour%2c+My+Name+Is+Jodis!;שלום%2c+My+Name+Is+Jodis!;Χαίρετε%2c+My+Name+Is+Jodis!;Kamusta%2c+My+Name+Is+Jodis!;Hallo%2c+My+Name+Is+Jodis!;你好%2c+My+Name+Is+Jodis!;Здравейте%2c+My+Name+Is+Jodis!;Добры+Дзень%2c+My+Name+Is+Jodis!;Dia+Dhuit%2c+My+Name+Is+Jodis!;Ciao%2c+My+Name+Is+Jodis!;ສະບາຍດີ%2c+My+Name+Is+Jodis!;Kia+Ora%2c+My+Name+Is+Jodis!" alt="Hello, World!" height="100%" width="100%" /></a>
 
-<h2 align="center">Network Specialist | Sydney, Australia!<br><br>
-
+<h2 align="center">Network Specialist | Sydney, Australia!</h2>
+<br>
+<div align="center">
 <a href="https://linkedin.com/in/jodisfields" target="blank"><img align="center"
   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
   alt="jodisfields" height="30" width="40" /></a>
@@ -36,20 +37,27 @@
 <a href="https://www.hackerrank.com/jodisfields" target="blank"><img align="center"
   src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
   alt="jodisfields" height="30" width="40" /></a><br><br>
+</div>
+<br>
+<div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"> <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=jodisfields&margin-w=30&no-frame=true&no-bg=true&rank=-?&column=-1"
   alt="github-trophies" /></a>
-
+</div>
+<br>
+<div align="center">
 <img align="center"
   src="https://github-readme-streak-stats.herokuapp.com/?user=jodisfields&"
-  alt="jodisfields" height="" width="30%" /></a>
+  alt="jodisfields" height="" width="32%" /></a>
 <img align="center"
   src="https://github-readme-stats.vercel.app/api?username=jodisfields&show_icons=true&locale=en"
-  alt="jodisfields" height="" width="30%" /></a>
-<a href="https://spotify-github-profile.vercel.app/api/view?uid=jodis.fields1&redirect=true" target="blank"><img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jodis.fields1&cover_image=true&theme=novatorem"
-  alt="jodisfields" height="" width="35%" /></a></h2>
-
-<h3 align="left">Languages and Tools:<br><br>
+  alt="jodisfields" height="" width="32%" /></a>
+<img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jodis.fields1&cover_image=true&theme=novatorem"
+  alt="jodisfields" height="" width="34%" /></a>
+</div>
+<h4 align="left">Languages and Tools:</h4>
+<br>
+<div>
     <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg"
         alt="android" width="40" height="40" /> </a> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
@@ -162,4 +170,4 @@
         src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40" /> </a> <a
       href="https://zapier.com" target="_blank" rel="noreferrer"> <img
         src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
-  </h3>
+</div>
