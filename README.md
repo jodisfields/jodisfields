@@ -48,12 +48,12 @@
 <div align="center">
 <img align="center"
   src="https://github-readme-streak-stats.herokuapp.com/?user=jodisfields&"
-  alt="jodisfields" height="" width="32%" /></a>
+  alt="jodisfields" height="" width="32%" />
 <img align="center"
   src="https://github-readme-stats.vercel.app/api?username=jodisfields&show_icons=true&locale=en"
-  alt="jodisfields" height="" width="32%" /></a>
+  alt="jodisfields" height="" width="32%" />
 <img align="center" src="https://spotify-github-profile.vercel.app/api/view?uid=jodis.fields1&cover_image=true&theme=novatorem"
-  alt="jodisfields" height="" width="34%" /></a>
+  alt="jodisfields" height="" width="34%" />
 </div>
 <h4 align="left">Languages and Tools:</h4>
 <br>
