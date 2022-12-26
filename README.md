@@ -172,5 +172,5 @@
         src="https://www.vectorlogo.zone/logos/zapier/zapier-icon.svg" alt="zapier" width="40" height="40" /> </a>
 </div>
 <div align="center">
-<img align="center" src="/github-metrics.svg" alt="Metrics">
+<img align="center" src="/github-metrics.svg" alt="Metrics" width=100%>
 </div>
