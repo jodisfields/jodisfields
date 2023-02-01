@@ -1,44 +1,4 @@
-<a href="https://github.com/jodisfields" target="blank"><img align="center" title="Hello, World!" src="https://readme-typing-svg.herokuapp.com/?center=true&vcenter=true&width=600&height=75&font=rubik&size=30&duration=3000&color=000000&lines=Përshëndetje%2c+My+Name+Is+Jodis!;እው+ሰላም+ነው%2c+My+Name+Is+Jodis!;أهلا%2c+My+Name+Is+Jodis!;Բարեւ+Ձեզ%2c+My+Name+Is+Jodis!;Salam%2c+My+Name+Is+Jodis!;হ্যালো%2c+My+Name+Is+Jodis!;नमस्ते%2c+My+Name+Is+Jodis!;Szia%2c+My+Name+Is+Jodis!;Olá%2c+My+Name+Is+Jodis!;ਸਤ+ਸ੍ਰੀ+ਅਕਾਲ%2c+My+Name+Is+Jodis!;Buna+Ziua%2c+My+Name+Is+Jodis!;Привет%2c+My+Name+Is+Jodis!;Talofa%2c+My+Name+Is+Jodis!;Halò%2c+My+Name+Is+Jodis!;Здраво%2c+My+Name+Is+Jodis!;Mhoro%2c+My+Name+Is+Jodis!;Hola%2c+My+Name+Is+Jodis!;안녕하세요%2c+My+Name+Is+Jodis!;こんにちは%2c+My+Name+Is+Jodis!;Здраво%2c+My+Name+Is+Jodis!;Сайн+Уу%2c+My+Name+Is+Jodis!;नमस्कार%2c+My+Name+Is+Jodis!;Aloha%2c+My+Name+Is+Jodis!;Bonjour%2c+My+Name+Is+Jodis!;שלום%2c+My+Name+Is+Jodis!;Χαίρετε%2c+My+Name+Is+Jodis!;Kamusta%2c+My+Name+Is+Jodis!;Hallo%2c+My+Name+Is+Jodis!;你好%2c+My+Name+Is+Jodis!;Здравейте%2c+My+Name+Is+Jodis!;Добры+Дзень%2c+My+Name+Is+Jodis!;Dia+Dhuit%2c+My+Name+Is+Jodis!;Ciao%2c+My+Name+Is+Jodis!;ສະບາຍດີ%2c+My+Name+Is+Jodis!;Kia+Ora%2c+My+Name+Is+Jodis!" alt="Hello, World!" height="100%" width="100%" /></a>
 
-<h2 align="center">Software Engineer | Brisbane, Australia!</h2>
-<br>
-<div align="center">
-<a href="https://linkedin.com/in/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://kaggle.com/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg"
-  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/jodis-fields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg"
-  alt="jodis-fields" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jodisfields" target="blank"><img align="center"
-  src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jodisfields" height="30"
-  width="40" /></a>
-<a href="https://codesandbox.com/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codesandbox.svg"
-  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://dribbble.com/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/dribbble.svg"
-  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://dev.to/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg"
-  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://www.behance.net/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg"
-  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://hashnode.com/@jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg"
-  alt="@jodisfields" height="30" width="40" /></a>
-<a href="https://medium.com/@jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg"
-  alt="@jodisfields" height="30" width="40" /></a>
-<a href="https://codepen.io/jodisfields" target="blank"><img align="center"  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg"  alt="jodisfields" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jodisfields" target="blank"><img align="center"
-  src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg"
-  alt="jodisfields" height="30" width="40" /></a><br><br>
-</div>
-<br>
 <div align="center">
 <a href="https://github.com/ryo-ma/github-profile-trophy" target="blank"> <img align="center"
   src="https://github-profile-trophy.vercel.app/?username=jodisfields&margin-w=30&no-frame=true&no-bg=true&rank=-?&column=-1"
