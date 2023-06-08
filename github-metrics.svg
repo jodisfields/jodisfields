@@ -2764,7 +2764,7 @@
                                     </defs>
                                     <svg xmlns="http://www.w3.org/2000/svg" class="gauge info">
                                         <circle class="gauge-base" r="25" cx="28" cy="28"/>
-                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="89.73684210526316 155"/>
+                                        <circle class="gauge-arc" transform="rotate(-90 28 28)" r="25" cx="28" cy="28" stroke-dasharray="114.21052631578947 155"/>
                                     </svg>
                                     <svg xmlns="http://www.w3.org/2000/svg" mask="url(#mask)">
                                         <g stroke-linecap="round" stroke-width="2" fill="none" fill-rule="evenodd">
@@ -2789,9 +2789,9 @@
                                 <div class="title">
                                     <span class="prefix"></span>
                                     Developer
-                                    <span class="gh">ranked 4.52m out of 117m users</span>
+                                    <span class="gh">ranked 3.51m out of 117m users</span>
                                 </div>
-                                <div class="text">Published 12 public repositories</div>
+                                <div class="text">Published 15 public repositories</div>
                             </div>
                         </div>
                         <div class="achievement c largeable-width-half">
@@ -3143,7 +3143,7 @@
             </section>
             <footer>
                 <span>These metrics include private contributions</span>
-                <span>Last updated 8 Jun 2023, 22:05:28 (timezone Australia/Sydney) with lowlighter/metrics@3.33.0</span>
+                <span>Last updated 8 Jun 2023, 23:05:19 (timezone Australia/Sydney) with lowlighter/metrics@3.33.0</span>
             </footer>
         </div>
         <div xmlns="http://www.w3.org/1999/xhtml" id="metrics-end"></div>
