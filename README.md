@@ -1,13 +1,17 @@
 <h1 align="center">Jodis Fields</h1>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jodisfields&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" alt="GitHub stats for Jodis Fields">
+  <img src="https://ghstats.dev/api/card?username=jodisfields&theme=github_dark" alt="GitHub stats">
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=jodisfields&theme=github-dark-blue&hide_border=true" alt="GitHub contribution streak for Jodis Fields">
+  <img src="https://streak-stats.demolab.com?user=jodisfields&theme=github-dark-blue&hide_border=true" alt="GitHub streak">
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jodisfields&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages for Jodis Fields">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jodisfields&theme=github_dark" alt="GitHub profile summary">
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jodisfields&theme=github_dark" alt="Repository languages">
 </p>
